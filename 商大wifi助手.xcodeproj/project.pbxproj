@@ -21,6 +21,19 @@
 		2C26BB96180F75FD000BD1B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C26BB78180F75FD000BD1B6 /* UIKit.framework */; };
 		2C26BB9E180F75FD000BD1B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BB9C180F75FD000BD1B6 /* InfoPlist.strings */; };
 		2C26BBA0180F75FD000BD1B6 /* __wifi__Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C26BB9F180F75FD000BD1B6 /* __wifi__Tests.m */; };
+		2C26BBAF180F779F000BD1B6 /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBA9180F779F000BD1B6 /* 29.png */; };
+		2C26BBB0180F779F000BD1B6 /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBAA180F779F000BD1B6 /* 57.png */; };
+		2C26BBB1180F779F000BD1B6 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBAB180F779F000BD1B6 /* 58.png */; };
+		2C26BBB2180F779F000BD1B6 /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBAC180F779F000BD1B6 /* 80.png */; };
+		2C26BBB3180F779F000BD1B6 /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBAD180F779F000BD1B6 /* 114.png */; };
+		2C26BBB4180F779F000BD1B6 /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBAE180F779F000BD1B6 /* 120.png */; };
+		2C26BBB6180F7965000BD1B6 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBB5180F7965000BD1B6 /* Default.png */; };
+		2C26BBB8180F7A61000BD1B6 /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBB7180F7A60000BD1B6 /* Default~iphone.png */; };
+		2C26BBBA180F7A8C000BD1B6 /* 3.5.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C26BBB9180F7A8C000BD1B6 /* 3.5.png */; };
+		2C2F8DCF181A9BBE003C8A89 /* RNBlurModalView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2F8DCE181A9BBE003C8A89 /* RNBlurModalView.m */; };
+		2C2F8DD3181B8166003C8A89 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2F8DD0181B8166003C8A89 /* first.png */; };
+		2C2F8DD4181B8166003C8A89 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2F8DD1181B8166003C8A89 /* second.png */; };
+		2C2F8DD5181B8166003C8A89 /* third.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2F8DD2181B8166003C8A89 /* third.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +66,20 @@
 		2C26BB9B180F75FD000BD1B6 /* 商大wifi助手Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "商大wifi助手Tests-Info.plist"; sourceTree = "<group>"; };
 		2C26BB9D180F75FD000BD1B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2C26BB9F180F75FD000BD1B6 /* __wifi__Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __wifi__Tests.m; sourceTree = "<group>"; };
+		2C26BBA9180F779F000BD1B6 /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		2C26BBAA180F779F000BD1B6 /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		2C26BBAB180F779F000BD1B6 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		2C26BBAC180F779F000BD1B6 /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		2C26BBAD180F779F000BD1B6 /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		2C26BBAE180F779F000BD1B6 /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		2C26BBB5180F7965000BD1B6 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2C26BBB7180F7A60000BD1B6 /* Default~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~iphone.png"; sourceTree = "<group>"; };
+		2C26BBB9180F7A8C000BD1B6 /* 3.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.5.png; sourceTree = "<group>"; };
+		2C2F8DCD181A9BBE003C8A89 /* RNBlurModalView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBlurModalView.h; sourceTree = "<group>"; };
+		2C2F8DCE181A9BBE003C8A89 /* RNBlurModalView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBlurModalView.m; sourceTree = "<group>"; };
+		2C2F8DD0181B8166003C8A89 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		2C2F8DD1181B8166003C8A89 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		2C2F8DD2181B8166003C8A89 /* third.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = third.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +109,19 @@
 		2C26BB68180F75FC000BD1B6 = {
 			isa = PBXGroup;
 			children = (
+				2C2F8DD0181B8166003C8A89 /* first.png */,
+				2C2F8DD1181B8166003C8A89 /* second.png */,
+				2C2F8DD2181B8166003C8A89 /* third.png */,
+				2C2F8DCC181A9B8E003C8A89 /* 提醒 */,
+				2C26BBB9180F7A8C000BD1B6 /* 3.5.png */,
+				2C26BBB7180F7A60000BD1B6 /* Default~iphone.png */,
+				2C26BBB5180F7965000BD1B6 /* Default.png */,
+				2C26BBA9180F779F000BD1B6 /* 29.png */,
+				2C26BBAA180F779F000BD1B6 /* 57.png */,
+				2C26BBAB180F779F000BD1B6 /* 58.png */,
+				2C26BBAC180F779F000BD1B6 /* 80.png */,
+				2C26BBAD180F779F000BD1B6 /* 114.png */,
+				2C26BBAE180F779F000BD1B6 /* 120.png */,
 				2C26BB7A180F75FD000BD1B6 /* 商大wifi助手 */,
 				2C26BB99180F75FD000BD1B6 /* 商大wifi助手Tests */,
 				2C26BB73180F75FD000BD1B6 /* Frameworks */,
@@ -150,6 +190,15 @@
 				2C26BB9C180F75FD000BD1B6 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2C2F8DCC181A9B8E003C8A89 /* 提醒 */ = {
+			isa = PBXGroup;
+			children = (
+				2C2F8DCD181A9BBE003C8A89 /* RNBlurModalView.h */,
+				2C2F8DCE181A9BBE003C8A89 /* RNBlurModalView.m */,
+			);
+			name = "提醒";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +277,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C26BBBA180F7A8C000BD1B6 /* 3.5.png in Resources */,
+				2C26BBB3180F779F000BD1B6 /* 114.png in Resources */,
+				2C26BBB0180F779F000BD1B6 /* 57.png in Resources */,
+				2C26BBB6180F7965000BD1B6 /* Default.png in Resources */,
+				2C26BBB2180F779F000BD1B6 /* 80.png in Resources */,
+				2C26BBB4180F779F000BD1B6 /* 120.png in Resources */,
+				2C26BBAF180F779F000BD1B6 /* 29.png in Resources */,
 				2C26BB8D180F75FD000BD1B6 /* Images.xcassets in Resources */,
+				2C26BBB8180F7A61000BD1B6 /* Default~iphone.png in Resources */,
 				2C26BB7F180F75FD000BD1B6 /* InfoPlist.strings in Resources */,
+				2C2F8DD3181B8166003C8A89 /* first.png in Resources */,
+				2C2F8DD5181B8166003C8A89 /* third.png in Resources */,
+				2C26BBB1180F779F000BD1B6 /* 58.png in Resources */,
 				2C26BB88180F75FD000BD1B6 /* Main.storyboard in Resources */,
+				2C2F8DD4181B8166003C8A89 /* second.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +311,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C26BB8B180F75FD000BD1B6 /* ViewController.m in Sources */,
+				2C2F8DCF181A9BBE003C8A89 /* RNBlurModalView.m in Sources */,
 				2C26BB85180F75FD000BD1B6 /* AppDelegate.m in Sources */,
 				2C26BB81180F75FD000BD1B6 /* main.m in Sources */,
 			);
@@ -318,7 +380,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -334,8 +397,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "54D15F27-C828-4095-BF7E-820FF0A46EB6";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -357,7 +421,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -367,7 +432,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PROVISIONING_PROFILE = "54D15F27-C828-4095-BF7E-820FF0A46EB6";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -376,12 +442,17 @@
 		2C26BBA4180F75FD000BD1B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "商大wifi助手/商大wifi助手-Prefix.pch";
 				INFOPLIST_FILE = "商大wifi助手/商大wifi助手-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "54D15F27-C828-4095-BF7E-820FF0A46EB6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,12 +460,18 @@
 		2C26BBA5180F75FD000BD1B6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ARCHS = "$(ARCHS_STANDARD)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Xu Kenan (M7T74R8ZW3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Xu Kenan (DGXR564YJ9)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "商大wifi助手/商大wifi助手-Prefix.pch";
 				INFOPLIST_FILE = "商大wifi助手/商大wifi助手-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "54D15F27-C828-4095-BF7E-820FF0A46EB6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +537,7 @@
 				2C26BBA5180F75FD000BD1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C26BBA6180F75FD000BD1B6 /* Build configuration list for PBXNativeTarget "商大wifi助手Tests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +546,7 @@
 				2C26BBA8180F75FD000BD1B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
